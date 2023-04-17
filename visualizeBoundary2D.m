@@ -20,5 +20,4 @@ hold on
 %contour(X1, X2, vals, [0 0], 'Color', 'b','linewidth',2);
 contour(X1, X2, vals, [0.5 0.5], 'Color', 'b','linewidth',2);
 hold off;
-
 end
